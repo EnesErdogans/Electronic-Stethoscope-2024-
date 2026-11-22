@@ -32,7 +32,7 @@ The project has applications in medical diagnostics, telemedicine, and athlete p
 - Telemedicine applications  
 - Athlete performance assessment  
 
-For more information, check out our project files: [🔗 GitHub Link](https://github.com/EnesErdogans/SAPA)  
+  
 
 !!!IT SHOULD NOT BE USED FOR MEDICAL PURPOSES.!!!
 
@@ -71,7 +71,7 @@ Proje, tıbbi tanı, tele-tıp ve sporcu performansı gibi alanlarda kullanılab
 - Tele-tıp uygulamaları  
 - Sporcu performansı değerlendirme  
 
-Daha fazla bilgi için proje dosyalarımıza göz atabilirsiniz: [🔗 GitHub Linki](https://github.com/EnesErdogans/SAPA)  
+  
 
 !!!TIBBİ AMAÇLI KULLANILMAMALIDIR.!!!
 
